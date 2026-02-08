@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Historic Ventures Editor',
-  description: 'Turn rough notes into publish-ready outputs.'
+  title: 'The Property Narrative',
+  description: 'Luxury historical property reports powered by research + AI narrative craft.'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
